@@ -23,8 +23,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gaurav tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav tiwari" height="30" width="40" /></a>
-<a href="https://fb.com/gaurav tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gaurav tiwari" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/gaurav tiwari](https://www.linkedin.com/in/gauravtiwariweb/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav tiwari" height="30" width="40" /></a>
+<a href="[https://fb.com/gaurav tiwari](https://www.instagram.com/oscar_gaurav_03/?utm_medium=copy_link)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gaurav tiwari" height="30" width="40" /></a>
 <a href="https://instagram.com/oscar_gaurav_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oscar_gaurav_03" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/inspire tech development" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="inspire tech development" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gaurav tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gaurav tiwari" height="30" width="40" /></a>
