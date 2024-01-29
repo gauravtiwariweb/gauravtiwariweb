@@ -5,17 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravtiwariweb" alt="gauravtiwariweb" /></a> </p>
 
-- 🔭 I’m currently working on **A dynamic Website](Which I can publish on GitHub on February 2024**
+- 🔭 I’m currently working on **A dynamic Website Which I can publish on GitHub on February 2024**
 
 - 🌱 I’m currently learning **Frameworks and Computer graphics**
-
-- 👨‍💻 All of my projects are available at [On the Way](On the Way)
 
 - 💬 Ask me about **HTML,CSS, PYTHON, C,C++, PHP, UI**
 
 - 📫 How to reach me **gaurav.tiwari6392@gmail.con**
-
-- 📄 Know about my experiences [On the way](On the way)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
